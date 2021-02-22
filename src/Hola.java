@@ -7,11 +7,23 @@ public class Hola {
 		System.out.println("Hola, Soy David");
 
 		System.out.println("Hola, soy Ezequiel");
+
+		
+		
+
+
 		System.out.println("Hola, soy Jorge");
 
+
 		System.out.println("Hola, soy Pablo");
+
+		System.out.println("hola, soy CarlosAntony");
+
+
 		
 		System.out.println("hola amigos de youtube, soy ivan");
+
+		System.out.println("Hola, soy Mario");
 
 
 	}
