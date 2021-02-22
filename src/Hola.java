@@ -7,6 +7,7 @@ public class Hola {
 		System.out.println("Hola, Soy David");
 
 		System.out.println("Hola, soy Ezequiel");
+		System.out.println("Hola, soy Jorge");
 
 
 	}
