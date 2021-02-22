@@ -30,6 +30,7 @@ public class Hola {
 		System.out.println("Hola, soy Mario");
 
 		System.out.println("Hola, soy Alexander");
+		System.out.println("Hola, que tal?");
 	}
 
 }
